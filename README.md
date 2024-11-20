@@ -105,7 +105,4 @@ Contributions are welcome! If you'd like to add enhancements or fix any issues, 
 
 ## **License**  
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.  
-
----
-
-Feel free to explore the code, and if you have any questions, let me know! 😊  
+  
